@@ -1,4 +1,7 @@
 ---
+genres:
+  - strategy
+  - party
 post: https://bitowl.net/raw-space/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
